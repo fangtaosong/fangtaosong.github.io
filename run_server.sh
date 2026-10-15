@@ -1,1 +1,7 @@
-bundle exec jekyll liveserve
+#!/usr/bin/env bash
+set -euo pipefail
+cd "$(dirname "$0")"
+if [[ -x /opt/homebrew/opt/ruby@3.3/bin/ruby ]]; then
+  export PATH="/opt/homebrew/opt/ruby@3.3/bin:$PATH"
+fi
+exec bundle exec jekyll serve --host 127.0.0.1 --port 4000 --livereload "$@"
