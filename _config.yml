@@ -9,8 +9,8 @@ description: Taosong Fang (方陶松). LLM pretraining, backbone and infrastruct
 footer_text: Powered by <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://github.com/alshedivat/al-folio">al-folio</a>.
 keywords: Taosong Fang, 方陶松, LLM pretraining, AI infrastructure, LLM serving
 lang: en
-icon: "⌘"
-apple_touch_icon:
+icon: favicon.ico
+apple_touch_icon: apple-touch-icon.png
 url: https://fangtaosong.github.io
 baseurl: ""
 last_updated: false

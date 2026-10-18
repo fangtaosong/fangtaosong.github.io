@@ -19,7 +19,7 @@ latest_posts:
 
 I am a Researcher at Dots Studio, Xiaohongshu, where I focus on LLM pretraining and backbone and infrastructure co-design. Beyond these areas, my previous research also covered LLM post-training and ML System for LLM training, inference, and agentic workflows.
 
-I received my master's degree in 2026 from the [Chinese Information Processing Laboratory](https://www.icip.org.cn/), [Institute of Software, Chinese Academy of Sciences](https://www.iscas.ac.cn/), co-advised by Prof. [Hongyu Lin](http://hongyu.ln.cn/) and Prof. [Yaojie Lu](https://yaojie.lu/). I earned my bachelor's degree from the School of Software at Dalian University of Technology in 2023.
+I received my master's degree in 2026 from the [Chinese Information Processing Laboratory](https://www.icip.org.cn/), [Institute of Software, Chinese Academy of Sciences](https://www.iscas.ac.cn/), co-advised by Prof. [Hongyu Lin](http://hongyu.ln.cn/) and Prof. [Yaojie Lu](https://yaojie.lu/). I earned my bachelor's degree from the School of Software at Dalian University of Technology in 2023. I also collaborate closely with Dr. [Zhen Zheng](https://jamesthez.github.io/) on ML systems research.
 
 ## Education
 
